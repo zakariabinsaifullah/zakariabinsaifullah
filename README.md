@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zbinsaifullah@gmail.com**
 
-- 📄 Know about my experiences [https://makegutenblock.com/about](https://makegutenblock.com/about)
+- 📄 Know about my experiences [https://devzakaria.com/about](https://devzakaria.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
