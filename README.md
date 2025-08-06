@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zakaria Binsaifullah</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">WordPress and Shopify Developer</h3>
 
-- 🔭 I’m currently working on [Gutenberg Block Development](https://makegutenblock.com)
+- 🔭 I’m currently working on [Gutenberg Block Development](https://devzakaria.com)
 
 - 🌱 I’m currently learning **Different JS frameworks in depth**
 
 - 👨‍💻 All of my projects are available at [https://makegutenblock.com](https://makegutenblock.com)
 
-- 📝 I regularly write articles on [https://makegutenblock.com](https://makegutenblock.com)
+- 📝 Visit my personal website [https://devzakaria.com](https://devzakaria.com)
 
 - 💬 Ask me about **WordPress, Javascript, React, Vue, Laravel**
 
